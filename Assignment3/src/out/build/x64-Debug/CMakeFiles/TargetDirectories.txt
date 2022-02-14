@@ -1,0 +1,4 @@
+D:/YHD/CS171/cs171-assignment3-Young2647/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/YHD/CS171/cs171-assignment3-Young2647/src/out/build/x64-Debug/CMakeFiles/render.dir
+D:/YHD/CS171/cs171-assignment3-Young2647/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/YHD/CS171/cs171-assignment3-Young2647/src/out/build/x64-Debug/CMakeFiles/main.dir
